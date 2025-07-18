@@ -1,0 +1,92 @@
+# Logs et fichiers temporaires
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration locaux
+.env
+.env.local
+.env.*.local
+config.local
+settings.local
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*.orig
+*~
+*.swp
+*.swo
+
+# Dossiers de sortie et cache
+output/
+cache/
+.cache/
+tmp/
+temp/
+
+# Fichiers sensibles
+secrets/
+private/
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+
+# Fichiers système Ubuntu/Debian
+.sudo_as_admin_successful
+.bash_history
+.viminfo
+.ssh/known_hosts
+
+# Fichiers de test
+test_output/
+test_logs/
+*.test
+
+# Archives
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Fichiers de monitoring
+monitoring_data/
+*.pid
+*.lock
+
+# Fichiers de configuration spécifiques à l'utilisateur
+user_config/
+local_settings/
+
+# Fichiers générés automatiquement
+generated/
+auto_generated/
+
+# Certificats et clés SSL
+*.crt
+*.cert
+*.ca-bundle
+ssl/
+
+# Bases de données locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Fichiers de processus
+*.proc
+/proc/
+
+# Fichiers temporaires de scripts
+script_temp/
+install_temp/
