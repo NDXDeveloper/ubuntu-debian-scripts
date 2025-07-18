@@ -1,7 +1,0 @@
-** Ajouter le dossier au PATH :
-Ajoutez le dossier ~/scripts à votre variable PATH en modifiant votre fichier .bashrc :
-echo 'export PATH="$HOME/scripts:$PATH"' >> ~/.bashrc
-source ~/.bashrc
-
-**
-

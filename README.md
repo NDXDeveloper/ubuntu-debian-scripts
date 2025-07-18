@@ -110,9 +110,6 @@ Les contributions sont les bienvenues ! Veuillez :
 - Respectez les conventions de nommage
 - Incluez la gestion d'erreurs appropriée
 
-## 📝 Changelog
-
-Voir [CHANGELOG.md](CHANGELOG.md) pour l'historique des versions.
 
 ## 📄 License
 
